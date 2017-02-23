@@ -1,7 +1,9 @@
 # Compiled Object files
 *.slo
 *.lo
-*.o
+*.d
+wsd
+dfgjkss
 *.obj
 
 # Precompiled Headers
@@ -27,3 +29,5 @@
 *.exe
 *.out
 *.app
+Ghbdtn
+sss
